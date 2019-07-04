@@ -309,6 +309,10 @@ class RescaleAPI(object):
         )
         content = json.loads(response.text)
         return content
+    
+    def new_func(self,new)
+        print(new)
+   
 
 
 
